@@ -1,10 +1,17 @@
 Name: Vaishnavi R
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT080D673
+
 Domain: DevOps
+
 Duration: December 12th to January 12th,2025
+
 Mentor: Muzammil
+
 Overview of the Project: Infrastructure as Code with Terraform
+
 Project Title: Infrastructure as Code (IaC) with Terraform
 
 Objective: The objective of this project is to leverage Terraform for automating the provisioning, management, and teardown of cloud infrastructure on AWS. Terraform is an Infrastructure as Code (IaC) tool that enables you to define cloud resources in configuration files, ensuring consistency, version control, and repeatability in the creation and management of your infrastructure.
